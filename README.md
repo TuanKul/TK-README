@@ -8,3 +8,22 @@
 
 2. Architecture Diagram:
    https://github.com/TuanKul/TK-README/blob/main/Untitled%20Diagram.png
+   
+3. Database 
+
+4. I apply the following knowledge:
+  * Outh2
+  * Spring boot
+  * Eureka
+  * Spring cloud config
+  * RabbitMQ
+  * SOLID principle
+  * Hibernate, JPA
+  * Schedule
+  * Rest Full API
+  * Facetory pattern
+  * Resttemplate
+  * Postgres
+
+
+Thank you for viewing my post!!
