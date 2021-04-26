@@ -9,7 +9,10 @@
 2. Architecture Diagram:
    https://github.com/TuanKul/TK-README/blob/main/Untitled%20Diagram.png
    
-3. Database 
+3. Database
+   a. Oauth2 diagram: https://github.com/TuanKul/TK-README/blob/main/Outh2%20Diagram.png
+   b. Product-Service diagram: https://github.com/TuanKul/TK-README/blob/main/Product-service%20Diagram.png
+   c. Log-Service diagram: https://github.com/TuanKul/TK-README/blob/main/Log-service%20Diagram.png
 
 4. I apply the following knowledge:
   * Outh2
