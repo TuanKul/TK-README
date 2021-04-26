@@ -39,7 +39,7 @@
   * Hibernate, JPA
   * Schedule
   * Rest Full API
-  * Facetory pattern
+  * Factory pattern
   * Resttemplate
   * Postgres
 
