@@ -17,15 +17,15 @@
    
 3. Database
 
-   a. Oauth2 diagram:
+   a. Oauth2:
    
    ![image](https://user-images.githubusercontent.com/82629813/116042456-a0538500-a698-11eb-935e-0e92870ab6ad.png)
    
-   b. Product-Service diagram: 
+   b. Product-Service: 
    
    ![image](https://user-images.githubusercontent.com/82629813/116042503-aea1a100-a698-11eb-82b8-84849e24cc89.png)
    
-   c. Log-Service diagram: 
+   c. Log-Service: 
    
    ![image](https://user-images.githubusercontent.com/82629813/116042540-ba8d6300-a698-11eb-9cb4-a733527a0524.png)
 
